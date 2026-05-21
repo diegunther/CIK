@@ -103,7 +103,7 @@ export const TEAM_MEMBERS: TeamMember[] = [
     initials: "AB",
     role: "PhD Researcher",
     group: "phd",
-    bio: "Exploring how forced migrants navigate knowledge systems and reclaim narrative authority in host country contexts. Dissertation: "Epistemic Displacement: Knowledge-making at the Borders of Belonging."",
+    bio: "Exploring how forced migrants navigate knowledge systems and reclaim narrative authority in host country contexts. Dissertation: 'Epistemic Displacement: Knowledge-making at the Borders of Belonging.'",
     order: 1,
   },
   {
