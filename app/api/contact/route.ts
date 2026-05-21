@@ -42,7 +42,7 @@ export async function POST(req: NextRequest) {
       await resend.emails.send({
         from: "CIK Lab Website <noreply@ciklab.vu.nl>",
         to: [contactEmail],
-        reply_To: email,
+        reply_to: email,
         subject: `[CIK Lab Contact] ${subject}`,
         text: `
 New contact form submission
